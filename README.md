@@ -50,14 +50,14 @@ npm run dev
 Open your browser and visit http://127.0.0.1:5173/ to view the application.
 
 ## Screenshots/GIFs
+
 # Small Screen View 
 
-<br/>
-![greenmentor-4](https://github.com/anshul-010/GreenMentot/assets/93611786/bcfb37c9-37d2-45bf-8efa-9d29f774fb07)
+![hyperface](https://github.com/anshul-010/GreenMentot/assets/93611786/bcfb37c9-37d2-45bf-8efa-9d29f774fb07)
 
 # Large Screen View
 
-![greenmentor-2](https://github.com/anshul-010/GreenMentot/assets/93611786/69476ec7-8a86-4e3c-83fa-2d12903348df)
+![hyperface](https://github.com/anshul-010/GreenMentot/assets/93611786/69476ec7-8a86-4e3c-83fa-2d12903348df)
 
 
 
